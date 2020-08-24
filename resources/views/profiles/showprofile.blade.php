@@ -9,7 +9,6 @@
         <div class = "col-9 pt-5">
             <div class ="d-flex">
                 <h1>{{$user->username}}</h1>
-                <a href ="post/create"><i class= "fas fa-plus">Post</i></a>
             </div>
             <div class ="d-flex">
                 <div class = "pr-5">0 Posts</div>
